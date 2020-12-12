@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978743713258",
+    "project_id": "gtoc-d390d",
+    "storage_bucket": "gtoc-d390d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978743713258:android:05db0af94281c9cd1f6693",
+        "android_client_info": {
+          "package_name": "com.rize.Presencion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978743713258-1ac97ig9q97ri3iv1iq53idgq08iujd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqFVFsaWhZ5jzJcIAuXmMCj0gZDyjQu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978743713258-1ac97ig9q97ri3iv1iq53idgq08iujd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
